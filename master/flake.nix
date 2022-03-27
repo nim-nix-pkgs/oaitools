@@ -11,6 +11,7 @@
   inputs.src-oaitools-master.ref   = "refs/heads/master";
   inputs.src-oaitools-master.owner = "markpbaggett";
   inputs.src-oaitools-master.repo  = "oaitools.nim";
+  inputs.src-oaitools-master.dir   = "";
   inputs.src-oaitools-master.type  = "github";
   
   inputs."xmltools".owner = "nim-nix-pkgs";
