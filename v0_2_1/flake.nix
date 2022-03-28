@@ -11,7 +11,6 @@
   inputs.src-oaitools-v0_2_1.ref   = "refs/tags/v0.2.1";
   inputs.src-oaitools-v0_2_1.owner = "markpbaggett";
   inputs.src-oaitools-v0_2_1.repo  = "oaitools.nim";
-  inputs.src-oaitools-v0_2_1.dir   = "";
   inputs.src-oaitools-v0_2_1.type  = "github";
   
   inputs."xmltools".owner = "nim-nix-pkgs";
