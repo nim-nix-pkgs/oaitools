@@ -546,11 +546,11 @@
       },
       "locked": {
         "dir": "v0_1_5",
-        "lastModified": 1668750678,
-        "narHash": "sha256-IoaazUsyDCw0STSNP1L8Qp3YaIp8BJlMaS3R74JfTl8=",
+        "lastModified": 1668756169,
+        "narHash": "sha256-AAOVo2hoqSV/DndYFAveMfvnoBXle21YfO2YB2+PC0I=",
         "owner": "nim-nix-pkgs",
         "repo": "xmltools",
-        "rev": "ab71bf54398681694a5106ebad4432319c033606",
+        "rev": "af6ca5394256d19170e556f3eeab604c84197729",
         "type": "github"
       },
       "original": {
